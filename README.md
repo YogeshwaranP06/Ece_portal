@@ -1,4 +1,4 @@
-# 🎓 ECE Placement Portal
+# 🎓 ECE Portal
 
 A modern, secure, and intelligent placement portal developed for the **Department of Electronics and Communication Engineering, SRM TRP Engineering College**. The platform helps students explore placement opportunities, discover companies, analyze required skills, and prepare effectively for campus recruitment.
 

@@ -1,7 +1,7 @@
 # 🎓 ECE Portal
 
 <p align="center">
-  <img src="public/logos/SRM-TRP-Campus.jpg" alt="SRM TRP Engineering College" width="180"/>
+  <img src="public/logos/SRM-TRP-Campus.jpg" width="900" alt="SRM TRP Engineering College"/>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ This project follows modern web security practices.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-
+![React Router](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=reactrouter)
 ### Frontend
 
 - React

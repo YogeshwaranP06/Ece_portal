@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-  <strong>A modern Placement Intelligence Platform for the Department of Electronics & Communication Engineering, SRM TRP Engineering College.</strong>
-</p>
+  <a href="https://srmtrp-ece-portal.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" />
+  </a>
 
-<p align="center">
-  <a href="https://srmtrp-ece-portal.vercel.app/">🌐 Live Demo</a> •
-  <a href="https://github.com/YogeshwaranP06/Ece_portal">📂 Repository</a>
+  <a href="https://github.com/YogeshwaranP06/Ece_portal">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---

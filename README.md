@@ -1,7 +1,11 @@
-# 🎓 ECE Portal
+<p align="center">
+  <img src="assets/github-banner.png" alt="ECE Portal Banner" width="100%">
+</p>
+
+<h1 align="center">🎓 ECE Portal</h1>
 
 <p align="center">
-  <img src="public/logos/SRM-TRP-Campus.jpg" width="900" alt="SRM TRP Engineering College"/>
+An Intelligent Placement Intelligence Platform for the Department of Electronics & Communication Engineering, SRM TRP Engineering College.
 </p>
 
 <p align="center">

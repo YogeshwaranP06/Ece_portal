@@ -4,6 +4,10 @@
 
 <h1 align="center">🎓 ECE Portal</h1>
 
+---
+
+A modern, secure, and intelligent placement portal developed for the **Department of Electronics and Communication Engineering, SRM TRP Engineering College**. The platform helps students explore placement opportunities, discover companies, analyze required skills, and prepare effectively for campus recruitment.
+
 <p align="center">
 An Intelligent Placement Intelligence Platform for the Department of Electronics & Communication Engineering, SRM TRP Engineering College.
 </p>
@@ -18,11 +22,6 @@ An Intelligent Placement Intelligence Platform for the Department of Electronics
   </a>
 </p>
 
----
-
-A modern, secure, and intelligent placement portal developed for the **Department of Electronics and Communication Engineering, SRM TRP Engineering College**. The platform helps students explore placement opportunities, discover companies, analyze required skills, and prepare effectively for campus recruitment.
-
-🌐 **Live Demo:** https://srmtrp-ece-portal.vercel.app/
 
 ---
 

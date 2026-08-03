@@ -1,8 +1,9 @@
 # 🎓 ECE Portal
 
 <p align="center">
-A Placement Intelligence Platform for the Department of Electronics & Communication Engineering,<br>
-SRM TRP Engineering College.
+<strong>Placement Intelligence Platform</strong><br>
+Department of Electronics & Communication Engineering<br>
+SRM TRP Engineering College
 </p>
 
 ---

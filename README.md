@@ -244,7 +244,7 @@ git push origin feature-name
 | Role | Name | Profile |
 |------|------|---------|
 | **Lead Developer** | **Yogeshwaran P** | [LinkedIn](https://www.linkedin.com/in/yogeshwaran-p-7a517a332/) • [GitHub](https://github.com/YogeshwaranP06) |
-| **Co-Developer** | **Sivaramakrishnan S** | [LinkedIn](https://www.linkedin.com/in/sivaramakrishnan-s-78613832a/) | 
+| **Co-Developer** | **Sivaramakrishnan S** | [LinkedIn](https://www.linkedin.com/in/sivaramakrishnan-s-78613832a/)  • [GitHub](https://github.com/siva7116) |
 ---
 
 ## 📄 License

@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="ECE Portal Banner" width="100%">
-</p>
-
-<h1 align="center">🎓 ECE Portal</h1>
+  <img src="https://raw.githubusercontent.com/YogeshwaranP06/Ece_portal/main/assets/github-banner.png" width="100%">
+</p>🎓 ECE Portal</h1>
 
 ---
 

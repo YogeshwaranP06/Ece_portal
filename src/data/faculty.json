@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "name": "Dr.B.Veerasamy /PROF & HoD",
+    "softwareKnown": [
+      "Cadence",
+      "Xilinx",
+      "Tanner",
+      "Matlab",
+      "Orcad",
+      "Proteus",
+      "Altium",
+      "Comsol"
+    ],
+    "hardwareKnown": [
+      "Renesas Controllers",
+      "Fujitsu",
+      "Raspberry Pi",
+      "ARM 9&11",
+      "FPGA",
+      "ZYNQ"
+    ],
+    "domain": "Semiconductor"
+  },
+  {
+    "id": 3,
+    "name": "Dr.P.Thiruvalar Selvan/ PROF",
+    "softwareKnown": [
+      "MATLAB",
+      "IE3D",
+      "TINKER CAD"
+    ],
+    "hardwareKnown": [
+      "Microwave Measurement Equipments like- Vector Network Analyzer"
+    ],
+    "domain": "Communication"
+  },
+  {
+    "id": 5,
+    "name": "Dr.K.Uma Maheswari /PROF",
+    "softwareKnown": [
+      "MATLAB",
+      "Jupyter Notebook",
+      "Google co lab",
+      "Tanner (basic)",
+      "LTspice",
+      "OpenCV",
+      "SciPy",
+      "Xilinx"
+    ],
+    "hardwareKnown": [
+      "FPGA spartan 6",
+      "Arduino"
+    ],
+    "domain": "Digital Signal Processing"
+  },
+  {
+    "id": 6,
+    "name": "Dr. K. Martin Sagayam / AP",
+    "softwareKnown": [
+      "MATLAB",
+      "CAD FECO",
+      "AWR",
+      "PSPICE",
+      "Anaconda",
+      "Colab",
+      "Labview"
+    ],
+    "hardwareKnown": [
+      "Raspberry Pi",
+      "Arduino",
+      "DSP Processor"
+    ],
+    "domain": "Communication"
+  },
+  {
+    "id": 7,
+    "name": "Dr.G.Gandhimathi/AP",
+    "softwareKnown": [
+      "MATLAB",
+      "Jupyter Notebook",
+      "COLAB"
+    ],
+    "hardwareKnown": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "domain": "Digital Signal Processing"
+  },
+  {
+    "id": 8,
+    "name": "Mr.C.Anandhan/AP",
+    "softwareKnown": [
+      "MATLAB",
+      "HFSS",
+      "TINKER CAD ONLINE TOOL"
+    ],
+    "hardwareKnown": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "domain": "Nano Technology"
+  },
+  {
+    "id": 9,
+    "name": "Ms.K.Priyadharshini/AP",
+    "softwareKnown": [
+      "MATLAB",
+      "Co lab"
+    ],
+    "hardwareKnown": [
+      "Raspberry Pi"
+    ],
+    "domain": "Digital Signal Processing"
+  },
+  {
+    "id": 10,
+    "name": "Mr.G.Parameswaran/AP",
+    "softwareKnown": [
+      "LT Spice",
+      "Xilinx"
+    ],
+    "hardwareKnown": [
+      "Arduino"
+    ],
+    "domain": "Communication"
+  },
+  {
+    "id": 11,
+    "name": "Ms.M.Krishna Rani/AP",
+    "softwareKnown": [
+      "MATLAB",
+      "Tinkercad",
+      "xilinx(basic)"
+    ],
+    "hardwareKnown": [
+      "Arduino"
+    ],
+    "domain": "Digital Signal Processing"
+  },
+  {
+    "id": 12,
+    "name": "Mr. M.Vijay/AP",
+    "softwareKnown": [
+      "HFSS",
+      "MATLAB",
+      "Xilinx"
+    ],
+    "hardwareKnown": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "domain": "Semiconductor"
+  },
+  {
+    "id": 13,
+    "name": "Ms.GA.Nivedaa/AP",
+    "softwareKnown": [
+      "HFSS",
+      "MATLAB"
+    ],
+    "hardwareKnown": [
+      "Arduino"
+    ],
+    "domain": "Communication"
+  },
+  {
+    "id": 14,
+    "name": "Dr.E.Raja/AP",
+    "softwareKnown": [
+      "LT Spice(Basics)",
+      "Xilinx(Basics)",
+      "MATLAB"
+    ],
+    "hardwareKnown": [
+      "Microcontroller (8051",
+      "PIC)",
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "domain": "Embedded System and Robotics"
+  },
+  {
+    "id": 15,
+    "name": "Mrs.K.Sivaranjani/AP",
+    "softwareKnown": [
+      "CST",
+      "Tannar EDA",
+      "LTSpice",
+      "xilinx"
+    ],
+    "hardwareKnown": [
+      "Arduino"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Mrs.S.Mirdula/AP",
+    "softwareKnown": [
+      "MATLAB",
+      "Tinker CAD"
+    ],
+    "hardwareKnown": [
+      "ARM 7"
+    ],
+    "domain": "Embedded System and Robotics"
+  },
+  {
+    "id": 18,
+    "name": "Dr.A.Sugantha/AP",
+    "softwareKnown": [
+      "Cadence",
+      "Xilinx",
+      "Tanner"
+    ],
+    "hardwareKnown": [
+      "FPGA spartan"
+    ],
+    "domain": "Semiconductor"
+  },
+  {
+    "id": 19,
+    "name": "Mrs.S.Priya/AP",
+    "softwareKnown": [
+      "MATLAB",
+      "Google Co lab",
+      "VHDL"
+    ],
+    "hardwareKnown": [
+      "DSP Processors",
+      "Arduino"
+    ],
+    "domain": "Digital Signal Processing"
+  },
+  {
+    "id": 20,
+    "name": "Mrs. N. Gayathri /AP",
+    "softwareKnown": [],
+    "hardwareKnown": [],
+    "domain": "Semiconductor"
+  },
+  {
+    "id": "v-ramkumar",
+    "name": "Dr. V. Ramkumar / Associate Professor",
+    "designation": "Associate Professor",
+    "specialization": "VLSI Design, Internet of Things",
+    "email": "",
+    "scholarLink": ""
+  },
+  {
+    "id": "a-selvapandian",
+    "name": "Dr. A. Selvapandian / Associate Professor",
+    "designation": "Associate Professor",
+    "specialization": "Image Processing, IoT",
+    "email": "",
+    "scholarLink": ""
+  }
+]

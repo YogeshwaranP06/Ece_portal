@@ -1,0 +1,140 @@
+[
+  {
+    " ": "(Approved by AICTE, Affiliated to Anna University)",
+    "Unnamed: 1": "",
+    "Unnamed: 2": "",
+    "Unnamed: 3": ""
+  },
+  {
+    " ": "Department of Electronics and Communication Engineering",
+    "Unnamed: 1": "",
+    "Unnamed: 2": "",
+    "Unnamed: 3": ""
+  },
+  {
+    " ": "FACULTY SKILL MATRIX",
+    "Unnamed: 1": "",
+    "Unnamed: 2": "",
+    "Unnamed: 3": ""
+  },
+  {
+    " ": "S.No.",
+    "Unnamed: 1": "FACULTY NAME",
+    "Unnamed: 2": "SOFTWARE KNOWN",
+    "Unnamed: 3": "HARDWARE  KNOWN"
+  },
+  {
+    " ": 1,
+    "Unnamed: 1": "Dr.B.Veerasamy /PROF & HoD",
+    "Unnamed: 2": "Cadence, Xilinx, Tanner, Matlab, Orcad, Proteus, Altium, Comsol",
+    "Unnamed: 3": " Renesas Controllers, Fujitsu, Raspberry Pi, ARM 9&11, FPGA, ZYNQ"
+  },
+  {
+    " ": 2,
+    "Unnamed: 1": "Dr.B.Ramasubramanian/ PROF",
+    "Unnamed: 2": "MATLAB,Colab, TinkerCAD",
+    "Unnamed: 3": "Arduino, Raspberry Pi"
+  },
+  {
+    " ": 3,
+    "Unnamed: 1": "Dr.P.Thiruvalar Selvan/ PROF",
+    "Unnamed: 2": "MATLAB, IE3D, TINKER CAD",
+    "Unnamed: 3": "Microwave Measurement Equipments like- Vector Network Analyzer"
+  },
+  {
+    " ": 4,
+    "Unnamed: 1": "Dr.C.Chellaswamy/PROF",
+    "Unnamed: 2": "Matlab, Embedded C, Colab",
+    "Unnamed: 3": "Arduino, Raspberry Pi"
+  },
+  {
+    " ": 5,
+    "Unnamed: 1": "Dr.K.Uma Maheswari /PROF",
+    "Unnamed: 2": "MATLAB, Jupyter Notebook, Google co lab, Tanner (basic), LTspice,OpenCV,SciPy, Xilinx",
+    "Unnamed: 3": "FPGA spartan 6, Arduino"
+  },
+  {
+    " ": 6,
+    "Unnamed: 1": "Dr. K. Martin Sagayam",
+    "Unnamed: 2": "MATLAB, CAD FECO, AWR, PSPICE, Anaconda, Colab, Labview",
+    "Unnamed: 3": "Raspberry Pi, Arduino, DSP Processor"
+  },
+  {
+    " ": 7,
+    "Unnamed: 1": "Dr.G.Gandhimathi/AP",
+    "Unnamed: 2": "MATLAB, Jupyter Notebook, COLAB ",
+    "Unnamed: 3": "Arduino, Raspberry Pi"
+  },
+  {
+    " ": 8,
+    "Unnamed: 1": "Mr.C.Anandhan/AP",
+    "Unnamed: 2": "MATLAB, HFSS, TINKER CAD ONLINE TOOL",
+    "Unnamed: 3": "Arduino, Raspberry Pi"
+  },
+  {
+    " ": 9,
+    "Unnamed: 1": "Ms.K.Priyadharshini/AP",
+    "Unnamed: 2": "MATLAB,Co lab",
+    "Unnamed: 3": "Raspberry Pi"
+  },
+  {
+    " ": 10,
+    "Unnamed: 1": "Mr.G.Parameswaran/AP",
+    "Unnamed: 2": "LT Spice, Xilinx",
+    "Unnamed: 3": "Arduino"
+  },
+  {
+    " ": 11,
+    "Unnamed: 1": "Ms.M.Krishna Rani/AP",
+    "Unnamed: 2": "MATLAB ,Tinkercad,xilinx(basic)",
+    "Unnamed: 3": "Arduino"
+  },
+  {
+    " ": 12,
+    "Unnamed: 1": "Mr. M.Vijay/AP",
+    "Unnamed: 2": "HFSS, MATLAB, Xilinx",
+    "Unnamed: 3": "Arduino, Raspberry Pi"
+  },
+  {
+    " ": 13,
+    "Unnamed: 1": "Ms.GA.Nivedaa/AP",
+    "Unnamed: 2": "HFSS,MATLAB",
+    "Unnamed: 3": "Arduino"
+  },
+  {
+    " ": 14,
+    "Unnamed: 1": "Dr.E.Raja/AP",
+    "Unnamed: 2": "LT Spice(Basics), Xilinx(Basics),MATLAB",
+    "Unnamed: 3": "Microcontroller (8051,PIC),Arduino, Raspberry Pi"
+  },
+  {
+    " ": 15,
+    "Unnamed: 1": "Mrs.K.Sivaranjani/AP",
+    "Unnamed: 2": "CST,Tannar EDA,LTSpice,xilinx",
+    "Unnamed: 3": "Arduino"
+  },
+  {
+    " ": 16,
+    "Unnamed: 1": "Mrs.S.Mirdula/AP",
+    "Unnamed: 2": "MATLAB, Tinker CAD",
+    "Unnamed: 3": "ARM 7"
+  },
+  {
+    " ": 17,
+    "Unnamed: 1": "Ms.D.Gayathri/AP",
+    "Unnamed: 2": "MATLAB, Tinker CAD",
+    "Unnamed: 3": "Arduino"
+  },
+  {
+    " ": 18,
+    "Unnamed: 1": "Dr.A.Sugantha/AP",
+    "Unnamed: 2": "Cadence, Xilinx, Tanner",
+    "Unnamed: 3": "FPGA spartan"
+  },
+  {
+    " ": 19,
+    "Unnamed: 1": "Mrs.S.Priya/AP",
+    "Unnamed: 2": "MATLAB,Google Co lab,VHDL",
+    "Unnamed: 3": "DSP Processors,Arduino"
+  }
+]

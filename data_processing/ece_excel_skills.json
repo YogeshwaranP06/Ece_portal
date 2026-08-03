@@ -1,0 +1,838 @@
+{
+  "JMAN": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "KAAR Technology": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Zoho Corporation": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "TCS": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "IBM": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "C T S": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Accenture": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "HCL": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Mphasis": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Tech Mahindra": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Atos Syntel": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "CGI": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Hexaware": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Mu \u2013 Sigma": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Atkins": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": false,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "CaterPillar": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": false,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Titan": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Sanmar Group": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Brakes India": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Kone elevator": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Foxconn": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Tempel Precision": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Schneider Electric": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "VVDN": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Data Patterns (India) Ltd": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Aptiv": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Voltech Engineers Pvt ltd": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Caliber Interconnect": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Sisco Accoustics India pvt ltd": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Tessolve": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": true,
+      "embeddedC": true,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Sanlayan Technologies": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Comcast": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": false,
+      "python": false,
+      "dsa": true,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Bosch": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Jane Street": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Goldman Sachs": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "E-Con Systems": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Delta Electronics": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Caliber Inc": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": false,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Valeo": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Tata Elxsi": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Aspire": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Mallow": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  },
+  "Collins Aerospace": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": true,
+      "coreElectronics": true,
+      "verilog": false
+    }
+  },
+  "Propel": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "vlsi": false,
+      "embeddedC": false,
+      "coreElectronics": false,
+      "verilog": false
+    }
+  }
+}

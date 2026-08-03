@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ECE Placement Intelligence Portal",
+  "description": "Smart placement insights for ECE students. View, search, and filter placement company data based on eligibility, skills, interview process, and offer category.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

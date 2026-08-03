@@ -1,0 +1,1649 @@
+{
+  "Company Name": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "TCS": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Infosys": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Wipro": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Cognizant": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Accenture": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Capgemini": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "HCL Technologies": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Tech Mahindra": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "IBM": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Deloitte": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Bosch": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "L&T": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": true
+    }
+  },
+  "Siemens": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "ABB": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Caterpillar": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "Hyundai Motor": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "Nissan": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "Renault Nissan": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "Ashok Leyland": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "TVS Motor": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "Nokia": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": false,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "Ericsson": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": false,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": false
+    }
+  },
+  "Cisco": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": true,
+      "ccna": true,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Oracle": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": true,
+      "cyberSecurity": true,
+      "dbms": true,
+      "ccna": true,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Amazon": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "linux": true,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Microsoft": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Zoho": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "VMware": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "ServiceNow": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Qualcomm": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Texas Instruments": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "NXP": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "MediaTek": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Analog Devices": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Schneider Electric": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Emerson": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Honeywell": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Samsung R&D": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Intel": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": false,
+      "matlab": true,
+      "autosar": true,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Goldman Sachs": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Standard Chartered": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "PayPal": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": false,
+      "sap": true,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "DE Shaw": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": false,
+      "sap": true,
+      "sql": true,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "HSBC": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "KPMG": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "EY": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "PwC": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "ThoughtWorks": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": false,
+      "cyberSecurity": true,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "linux": true,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Virtusa": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": true,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Hexaware": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": true,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Mindtree": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": true,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Mphasis": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": true,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "UST Global": {
+    "programmingSkills": {
+      "cpp": true,
+      "oops": true,
+      "python": true,
+      "dsa": true,
+      "coreJava": true,
+      "sap": true,
+      "sql": false,
+      "cyberSecurity": true,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": true
+    },
+    "coreSkills": {
+      "linux": true,
+      "verilog": false,
+      "vlsi": false,
+      "fpga": false,
+      "embeddedC": false,
+      "plcScada": false,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": false,
+      "dsp": false
+    }
+  },
+  "Tata Elxsi": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "KPIT": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Valeo": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Visteon": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "VVDN Technologies": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Sasken": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  },
+  "Tejas Networks": {
+    "programmingSkills": {
+      "cpp": false,
+      "oops": false,
+      "python": false,
+      "dsa": false,
+      "coreJava": false,
+      "sap": false,
+      "sql": false,
+      "cyberSecurity": false,
+      "dbms": false,
+      "ccna": false,
+      "webDevelopment": false
+    },
+    "coreSkills": {
+      "linux": false,
+      "verilog": true,
+      "vlsi": true,
+      "fpga": true,
+      "embeddedC": true,
+      "plcScada": true,
+      "matlab": false,
+      "autosar": false,
+      "coreElectronics": true,
+      "dsp": true
+    }
+  }
+}

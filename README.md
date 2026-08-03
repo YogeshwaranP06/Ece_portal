@@ -243,8 +243,7 @@ git push origin feature-name
 
 **Yogeshwaran P**
 
-LinkedIn:
-(Add your LinkedIn URL)
+LinkedIn:https://www.linkedin.com/in/yogeshwaran-p-7a517a332/
 
 GitHub:
 https://github.com/YogeshwaranP06
@@ -271,4 +270,4 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
-### Made with ❤️ by Nebula Nexus
+### Made by Nebula Nexus

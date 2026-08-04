@@ -110,7 +110,7 @@ export default function CompanyDetails() {
     oops: "https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/",
     python: "https://www.programiz.com/python-programming",
     dsa: "https://takeuforward.org",
-    coreJava: "https://www.javatpoint.com/java-tutorial",
+    coreJava: "https://docs.oracle.com/javase/tutorial/",
     sql: "https://sqlbolt.com",
     dbms: "https://www.geeksforgeeks.org/dbms/",
     webDevelopment: "https://developer.mozilla.org",
